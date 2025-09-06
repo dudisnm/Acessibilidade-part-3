@@ -19,3 +19,4 @@ O site apresenta conteúdos relacionados ao musical *Wicked*, trazendo um design
 - **HTML5**  
 - **CSS3**  
 - **JavaScript** (para funcionalidades de acessibilidade)  
+
